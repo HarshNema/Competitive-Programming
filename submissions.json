@@ -471,6 +471,22 @@
     ],
     "timestamp": "Jan/28/2021 21:36"
   },
+  "CF62592292": {
+    "contest_id": 1199,
+    "language": "GNU C++17",
+    "path": "codeforces\\1199\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "City Day",
+    "problem_url": "https://codeforces.com/contest/1199/problem/A",
+    "submission_id": "CF62592292",
+    "submission_url": "https://codeforces.com/contest/1199/submission/62592292",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Oct/15/2019 03:30"
+  },
   "CF62635371": {
     "contest_id": 1220,
     "language": "GNU C++17",
