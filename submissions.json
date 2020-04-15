@@ -471,6 +471,26 @@
     ],
     "timestamp": "Jan/28/2021 21:36"
   },
+  "CF76890380": {
+    "contest_id": 1337,
+    "language": "GNU C++17",
+    "path": "codeforces\\1337\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Linova and Kingdom",
+    "problem_url": "https://codeforces.com/contest/1337/problem/C",
+    "submission_id": "CF76890380",
+    "submission_url": "https://codeforces.com/contest/1337/submission/76890380",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "sortings",
+      "trees",
+      "*1600"
+    ],
+    "timestamp": "Apr/15/2020 22:22"
+  },
   "CF77260889": {
     "contest_id": 461,
     "language": "GNU C++17",
