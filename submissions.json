@@ -471,6 +471,27 @@
     ],
     "timestamp": "Jan/28/2021 21:36"
   },
+  "CF77266923": {
+    "contest_id": 520,
+    "language": "GNU C++17",
+    "path": "codeforces\\520\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Two Buttons",
+    "problem_url": "https://codeforces.com/contest/520/problem/B",
+    "submission_id": "CF77266923",
+    "submission_url": "https://codeforces.com/contest/520/submission/77266923",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "implementation",
+      "math",
+      "shortest paths",
+      "*1400"
+    ],
+    "timestamp": "Apr/19/2020 16:33"
+  },
   "CF77267593": {
     "contest_id": 545,
     "language": "GNU C++17",
