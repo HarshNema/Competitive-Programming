@@ -471,6 +471,23 @@
     ],
     "timestamp": "Jan/28/2021 21:36"
   },
+  "CF77260889": {
+    "contest_id": 461,
+    "language": "GNU C++17",
+    "path": "codeforces\\461\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Appleman and Toastman",
+    "problem_url": "https://codeforces.com/contest/461/problem/A",
+    "submission_id": "CF77260889",
+    "submission_url": "https://codeforces.com/contest/461/submission/77260889",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Apr/19/2020 15:17"
+  },
   "CF77264519": {
     "contest_id": 489,
     "language": "GNU C++17",
