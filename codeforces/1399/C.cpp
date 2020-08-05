@@ -22,23 +22,17 @@ int main() {
       cin >> v[i];
       ++freq[v[i]];
     }
-    sort(v.begin(), v.end());
-    ll ans = INT_MIN;
-    for (ll target = 1; target <= 100; ++target) {
-      ll pairs = 0, i = 0, j = n - 1;
-      while (i < j) {
-        ll curr_sum = v[i] + v[j];
-        if (curr_sum == target) {
-          ++pairs;
-          ++i, --j;
-        } else if (curr_sum < target) {
-          ++i;
-        } else {
-          --j;
-        }
+    ll maxm = INT_MIN;
+    for (ll sum = 1; sum <= 100; ++sum) {
+      ll ans = 0;
+      for (ll i = 1; i <= sum / 2; ++i) {
+        if (2 * i == sum)
+          ans += freq[i] / 2;
+        else
+          ans += min(freq[i], freq[sum - i]);
       }
-      ans = max(ans, pairs);
+      maxm = max(maxm, ans);
     }
-    cout << ans << "\n";
+    cout << maxm << "\n";
   }
 }
