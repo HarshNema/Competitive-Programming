@@ -11,7 +11,6 @@ const ll INF = 922337203685477;
 #define maxN 200007
 using namespace std;
 int main() {
-  fastio;
   ll t = 0;
   cin >> t;
   while (t--) {
