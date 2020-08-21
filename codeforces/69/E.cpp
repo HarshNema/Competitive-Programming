@@ -15,7 +15,7 @@ int main() {
   ll n = 0, k = 0;
   cin >> n >> k;
   vector<ll>v(n);
-  unordered_map<ll, ll>freq;
+  map<ll, ll>freq;
   set<ll>s;
   for (ll i = 0; i < n; ++i)
     cin >> v[i];
