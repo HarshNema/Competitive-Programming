@@ -471,6 +471,22 @@
     ],
     "timestamp": "Jan/28/2021 21:36"
   },
+  "CF94782582": {
+    "contest_id": 1424,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1424\\J.cpp",
+    "platform": "Codeforces",
+    "problem_index": "J",
+    "problem_name": "Lonely Numbers",
+    "problem_url": "https://codeforces.com/contest/1424/problem/J",
+    "submission_id": "CF94782582",
+    "submission_url": "https://codeforces.com/contest/1424/submission/94782582",
+    "tags": [
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Oct/05/2020 20:26"
+  },
   "CF95290082": {
     "contest_id": 1430,
     "language": "GNU C++17",
