@@ -24,8 +24,9 @@ int main() {
     ll c = 0, ans = -1;
     ll maxm = *max_element(v.begin(), v.end());
     for (ll i = 0; i < n; ++i) {
-      if (v[i] == maxm and ((i > 0 and v[i - 1] < maxm) or (i + 1 < n and v[i + 1] < maxm)))
+      if (v[i] == maxm and ((i >= 1 and v[i - 1] < maxm) or i < n - 1 and v[i + 1] < maxm)) {
         ans = i + 1;
+      }
     }
     cout << ans << "\n";
   }
